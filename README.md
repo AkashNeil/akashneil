@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I build REST APIs using Java & Spring.
+# akashneil.github.io
 
 <!--
 **AkashNeil/akashneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
