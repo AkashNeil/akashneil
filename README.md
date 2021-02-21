@@ -5,7 +5,8 @@
 
 ### We live in the information age
 
-What I do ? I help humanity progress by enabling the transfer of data and information throughout the world. 
+What I do ? I help humanity progress by enabling the transfer of data and information throughout the world.
+
 How ? I develop web services (REST APIs) and the back end of web applications using Java & Spring.
 
 <!--
