@@ -1,7 +1,7 @@
 ### akashneil.github.io
 
 
-![image](https://giphy.com/gifs/spcity-i4jKn7itdV2Tvjzj6Y")
+![image](https://cdn.dribbble.com/users/2501555/screenshots/6162791/personal-circle.gif)
 
 <!--
 **AkashNeil/akashneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
