@@ -16,6 +16,12 @@
 
 ![image](https://datarob.com/content/images/2019/09/datarob_cat-1.png)
 
+### Why ? 
+
+⚡ Because this is my ikigai.
+
+![image](https://uxmastery.com/wp-content/uploads/2018/01/Ben-Rowe-Ikigai-1128x484.png)
+
 <!--
 **AkashNeil/akashneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
