@@ -4,7 +4,7 @@
 
 ### What I do ?
 
-⚡ I help humanity progress by enabling & facilitating the transfer of data / information / knowledge throughout the world.
+⚡ I contribute to the progress of humanity by enabling & facilitating the transfer of data / information / knowledge throughout the world.
 
 ![image](https://s27389.pcdn.co/wp-content/uploads/2019/12/why-network-segmentation-essential-enterprise-1024x440.jpeg)
 
