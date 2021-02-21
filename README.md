@@ -7,7 +7,7 @@
 
 ⚡ What I do ? 
 
-I help humanity progress by enabling the transfer of data and information throughout the world.
+I help humanity progress by enabling & facilitating the transfer of data / information / knowledge throughout the world.
 
 ⚡ How ? 
 
