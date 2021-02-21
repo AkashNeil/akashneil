@@ -3,7 +3,7 @@
 
 ![image](https://s27389.pcdn.co/wp-content/uploads/2019/12/why-network-segmentation-essential-enterprise-1024x440.jpeg)
 
-### Welcome to the information age and the world of web services (using REST APIs).
+### Welcome to the information age and the world of web services (REST APIs).
 
 <!--
 **AkashNeil/akashneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
