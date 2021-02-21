@@ -1,7 +1,5 @@
 # akashneil.github.io
 
-## We live in the information age
-
 ![image](https://www.keysight.com/content/dam/keysight/en/img/prd/ixia-homepage-redirect/network-visibility-and-network-test-products/Network-Monitoring.jpg)
 
 ### What I do ?
