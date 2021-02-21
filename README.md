@@ -3,7 +3,7 @@
 ![image](https://www.keysight.com/content/dam/keysight/en/img/prd/ixia-homepage-redirect/network-visibility-and-network-test-products/Network-Monitoring.jpg)
 ![image](https://s27389.pcdn.co/wp-content/uploads/2019/12/why-network-segmentation-essential-enterprise-1024x440.jpeg)
 
-### Welcome to the information age and the world of web services (REST APIs).
+### We live in the information age
 
 I help humanity by enabling the transfer of data and information throughout the world. I develop web services (REST APIs) and the back end of web applications using Java & Spring.
 
