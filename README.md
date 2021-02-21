@@ -1,7 +1,7 @@
 ### akashneil.github.io
 
 
-![image](https://cdn.dribbble.com/users/2501555/screenshots/6162791/personal-circle.gif)
+![image](https://callhippo.com/blog/wp-content/uploads/2019/11/How-Is-Technology-Shaping-the-Telecom-Business.png)
 
 <!--
 **AkashNeil/akashneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
