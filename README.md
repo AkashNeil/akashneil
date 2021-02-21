@@ -5,6 +5,8 @@
 
 ### Welcome to the information age and the world of web services (REST APIs).
 
+I help humanity by enabling the transfer of data and information throughout the world. I develop web services (REST APIs) and the back end of web applications using Java & Spring.
+
 <!--
 **AkashNeil/akashneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
