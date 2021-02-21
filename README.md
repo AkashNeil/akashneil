@@ -1,18 +1,18 @@
 # akashneil.github.io
 
+## We live in the information age
+
 ![image](https://www.keysight.com/content/dam/keysight/en/img/prd/ixia-homepage-redirect/network-visibility-and-network-test-products/Network-Monitoring.jpg)
 
-### We live in the information age
-
-⚡ What I do ? 
+⚡ #### What I do ?
 
 I help humanity progress by enabling & facilitating the transfer of data / information / knowledge throughout the world.
 
 ![image](https://s27389.pcdn.co/wp-content/uploads/2019/12/why-network-segmentation-essential-enterprise-1024x440.jpeg)
 
-⚡ How ? 
+⚡ #### How ? 
 
-I develop web services (REST APIs) and the back end of web applications using Java & Spring.
+I develop web services (REST APIs) and the back end of web applications using ** Java ** & ** Spring **.
 
 ![image](https://datarob.com/content/images/2019/09/datarob_cat-1.png)
 
