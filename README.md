@@ -59,7 +59,7 @@
 
 ---
 
-### Some technologies I wish to worked with
+### Some technologies I wish to work with
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
