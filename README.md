@@ -1,5 +1,7 @@
 ![image](https://www.keysight.com/content/dam/keysight/en/img/prd/ixia-homepage-redirect/network-visibility-and-network-test-products/Network-Monitoring.jpg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashneil&langs_count=8)](https://github.com/akashneil/github-readme-stats)
+
 <!--
 **AkashNeil/akashneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
