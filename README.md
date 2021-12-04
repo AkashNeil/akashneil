@@ -22,7 +22,7 @@
 <hr>
 <h2  align="center">Languages I use most on GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashneil&langs_count=10&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashneil&langs_count=10&layout=compact&theme=dark" />
 </p>
 
 
