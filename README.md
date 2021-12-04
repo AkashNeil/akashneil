@@ -20,9 +20,11 @@
 </p>
 
 <hr>
-<h2  align="center">Languages I use most on GitHub</h2>
+<h2  align="center">My GitHub stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashneil&langs_count=10&layout=compact&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashneil&theme=dark" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashneil&langs_count=10&layout=compact&theme=dark&hide_title=true&card_width=445" />
 </p>
 
 
