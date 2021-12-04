@@ -1,14 +1,27 @@
-![image](https://www.keysight.com/content/dam/keysight/en/img/prd/ixia-homepage-redirect/network-visibility-and-network-test-products/Network-Monitoring.jpg)
-<!--
-**AkashNeil/akashneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">About</h2>
+<p align="center">
+  <samp>Software craftsman who enjoys developing elegant APIs and the server side of web applications, using Java & Spring. Currently working as a Software Architect.
+  </samp>
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2 align="center">Favourite Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
 
--->
+<hr>
+
+<h2  align="center">Contact</h2>
+<p align="center">
+  <a href="mailto:akashneilmobile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/akashneil"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</p>
+  
+<hr>
+ 
+<div align="center">
+  <img src="https://www.keysight.com/content/dam/keysight/en/img/prd/ixia-homepage-redirect/network-visibility-and-network-test-products/Network-Monitoring.jpg"/>
+</div>
