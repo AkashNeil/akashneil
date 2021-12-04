@@ -16,12 +16,9 @@
 
 <h2  align="center">Contact</h2>
 <p align="center">
+  <samp>If you want to collaborate with me, please do not hesitate to get in touch.</samp>
+</p>
+<p align="center">
   <a href="mailto:akashneilmobile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/akashneil"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </p>
-  
-<hr>
- 
-<div align="center">
-  <img src="https://www.keysight.com/content/dam/keysight/en/img/prd/ixia-homepage-redirect/network-visibility-and-network-test-products/Network-Monitoring.jpg"/>
-</div>
