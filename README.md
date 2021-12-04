@@ -20,7 +20,13 @@
 </p>
 
 <hr>
+<h2  align="center">Languages I use most on GitHub</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashneil&langs_count=10&layout=compact" />
+</p>
 
+
+<hr>
 <h2  align="center">Contact</h2>
 <p align="center">
   <a href="mailto:akashneilmobile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
