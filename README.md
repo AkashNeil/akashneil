@@ -1,6 +1,6 @@
 <h2 align="center">About</h2>
 <p align="center">
-  <samp>I develop REST APIs and the server side of web applications, using Java & Spring.
+  <samp>I develop RESTful APIs and the server side of web applications, using Java & Spring.
   </samp>
 </p>
 
